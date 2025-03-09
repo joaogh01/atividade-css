@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
+
+title {
+    color:gold;
+    text-align: justify;
+}
+
+h2 {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
+
+h3 {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
+
+h4 {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
+
+h5 {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: larger;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
+
+b {
+    color:gold;
+    text-align: justify;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.5em;
+    word-spacing: 5px;
+}
